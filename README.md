@@ -1,5 +1,5 @@
 # Project Name
-This project the "Extracting TV Data Insights" project from Datacamp.
+This is the "Extracting TV Data Insights" project from Datacamp.
 
 ## Description
 The purpose of this project is to analzye the halftime_musicians.csv, super_bowls.csv, and tv.csv datasets to answer the following:
